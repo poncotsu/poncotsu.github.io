@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ぽんこつ記</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-06-22T16:30:28.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>poncotsu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHubでBlogをはじめる</title>
+    <link href="http://yoursite.com/2016/06/23/GitHub%E3%81%A7Blog%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B/"/>
+    <id>http://yoursite.com/2016/06/23/GitHubでBlogをはじめる/</id>
+    <published>2016-06-22T15:56:43.000Z</published>
+    <updated>2016-06-22T16:30:28.000Z</updated>
+    
+    <content type="html">&lt;p&gt;githubでblogとかカッコいい気がするので、特にやることは決めてませんが、勉強がてらにはじめます。&lt;br&gt;とりあえずMarkdown記法を覚える事と、テーマのカスタマイズか自作を目標に、小さなことからコツコツと頑張ります。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Blog開設時のキャプチャ&lt;br&gt;&lt;img src=&quot;start.jpg&quot; alt=&quot;開設時&quot;&gt;&lt;/p&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;githubでblogとかカッコいい気がするので、特にやることは決めてませんが、勉強がてらにはじめます。&lt;br&gt;とりあえずMarkdown記法を覚える事と、テーマのカスタマイズか自作を目標に、小さなことからコツコツと頑張ります。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Blog" scheme="http://yoursite.com/categories/Blog/"/>
+    
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+    
+  </entry>
+  
+</feed>
